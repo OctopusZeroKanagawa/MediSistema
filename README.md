@@ -26,7 +26,7 @@ Base de datos para la gestión de un centro de salud: médicos (titulares, inter
    ```
    o abrir `consultas.sql` en MySQL Workbench y ejecutarlas una por una.
 
-> **Nota:** `estructura.sql` crea la base de datos con `CREATE DATABASE IF NOT EXISTS MediSistema CHARACTER SET utf8mb4`, necesario porque varios nombres de la tabla `paciente`/`medico` incluyen tildes y la letra "ñ".
+
 
 ## Modelo de datos (resumen)
 
