@@ -50,6 +50,6 @@ Base de datos para la gestión de un centro de salud: médicos (titulares, inter
 
 ### 5. Número de médicos que están actualmente en sustitución
 
-### 7. Número de médicos que están actualmente en sustitución
+### 7. Médico con mayor cantidad de pacientes asignados
 
 
