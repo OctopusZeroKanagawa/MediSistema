@@ -2,13 +2,6 @@
 
 Base de datos para la gestión de un centro de salud: médicos (titulares, interinos y sustitutos), empleados no médicos, pacientes, horarios de consulta, sustituciones y vacaciones.
 
-## Contenido del repositorio
-
-- `estructura.sql` — Creación de la base de datos y de todas las tablas, con sus claves primarias, foráneas y restricciones (`CHECK`) de integridad.
-- `datos.sql` — Datos de prueba para todas las tablas (médicos, empleados, pacientes, horarios, sustituciones y vacaciones).
-- `consultas.sql` — Las 5 consultas SQL solicitadas.
-- `README.md` — Este documento.
-
 ## Cómo ejecutar el proyecto en MySQL
 
 1. Abrir una terminal o MySQL Workbench con acceso a un servidor MySQL.
